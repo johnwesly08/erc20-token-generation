@@ -162,10 +162,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-## 💬 Get In Touch
+## 💬 ## 💻 Connect with Me
 
-Have questions or feedback? Connect with us or contribute to this project!
-
+- GitHub: [John Wesly P D](https://github.com/johnwesly08)
 ---
 
 Happy coding! 🎉 Deploy and manage your custom ERC20 token on Ethereum test networks with ease.
